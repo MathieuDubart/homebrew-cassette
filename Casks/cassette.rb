@@ -1,8 +1,8 @@
 cask "cassette" do
-  version "1.7+15"
-  sha256 "b901b76e42068aa87a22f6f43d10b8a722cbd789e48af035fcf6a3286ad2ea43"
+  version "1.8.0"
+  sha256 "2d8cc77128d7d55fd716bb46b726c48f58ee1a8acd39e28e74f9d8357f3b9df5"
 
-  url "https://github.com/MathieuDubart/cassette/releases/download/v1.7%2B15/Cassette-1.7.0+15.dmg",
+  url "https://github.com/MathieuDubart/cassette/releases/download/v1.8.0/Cassette-1.8.0.dmg",
     verified: "github.com/MathieuDubart/cassette/"
   name "Cassette"
   desc "Subsonic music client"
