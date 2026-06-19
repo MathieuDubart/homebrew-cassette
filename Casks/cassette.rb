@@ -8,7 +8,7 @@ cask "cassette" do
   desc "Subsonic music client"
   homepage "https://getcassette.app/"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Cassette.app"
 
